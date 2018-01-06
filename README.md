@@ -2,13 +2,13 @@
 ##Thinking in Java (Java 编程思想)
 
 
-本书来自网络，http://quanke.name 整理成电子书，支持PDF,ePub,Mobi格式，方便大家下载阅读。
+本书来自网络，http://hsutimes.club 整理成电子书，支持PDF,ePub,Mobi格式，方便大家下载阅读。
 
-阅读地址：https://java.quanke.name
+阅读地址：https://blog.hsutimes.club/
 
-下载地址：https://www.gitbook.com/book/quanke/think-in-java/
+下载地址：https://www.gitbook.com/book/hsutimes/think-in-java
 
-github地址：https://github.com/quanke/think-in-java
+github地址：https://github.com/hsutimes/think-in-java/
 
 编辑：http://quanke.name
 
@@ -17,6 +17,4 @@ github地址：https://github.com/quanke/think-in-java
 编辑整理辛苦，还望大神们点一下star ，抚平我虚荣的心
 
 更多请关注我的微信公众号：
-
-![](/assets/qrcode_for_gh_26893aa0a4ea_258.jpg)
 
