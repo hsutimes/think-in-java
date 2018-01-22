@@ -4,7 +4,7 @@
 
 本书来自网络，http://hsutimes.club/ 整理成电子书，支持PDF,ePub,Mobi格式，方便大家下载阅读。
 
-阅读地址：https://blog.hsutimes.club/
+阅读地址：https://java.hsutimes.club/
 
 下载地址：https://www.gitbook.com/book/hsutimes/think-in-java
 
